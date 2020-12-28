@@ -1,0 +1,92 @@
+*{
+    font-family: 'Noto Sans JP', sans-serif;   
+}
+
+body{
+    margin: 0;
+    background-color: #333333;
+    color : white;
+}
+
+.navbar{
+    background-color: #212121;
+    height: 55px;
+}
+
+.navlist{
+   float: left;
+}
+
+.navlist li{
+    display: inline-block;
+}
+
+.navlist li a{
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.navlist li a:hover{
+    color: gold;
+}
+
+.Bild{
+    float: right;
+    
+}
+
+#Steckbrief{
+    margin: 35px
+}
+
+#S {
+    margin: 20px
+}
+
+
+#Studiengänge{
+    margin: 35px
+}
+
+#Fähigkeiten{
+    margin: 35px
+}
+
+.Ereignisse{
+    margin: 35px;
+    }
+#Distanzierungen{
+    margin: 35px
+}
+
+#p{
+    margin: 20px;
+}
+
+.footbar{
+    background-color: #212121;
+    height: 55px;
+}
+
+.footlist{
+   float: left;
+}
+
+.footlist li{
+    display: inline-block;
+}
+
+.footlist li a{
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.footlist li a:hover{
+    color: gold;
+}
+
+#Autoren{
+    margin-left: 900px;
+}
